@@ -1,7 +1,7 @@
 import React from "react";
 import Squares from "./Squares";
 
-const Page = () => {
+const MainPage = () => {
     return(
         <>
         <div className="p-8 flex flex-col">
@@ -15,4 +15,4 @@ const Page = () => {
     );
 }
 
-export default Page;
+export default MainPage;
