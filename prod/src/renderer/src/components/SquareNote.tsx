@@ -24,6 +24,7 @@ const SquareNote = () => {
                 <div className="flex items-start justify-center">
                     <h1 className="text-2xl">Day #{squareId}</h1>
                 </div>
+                {/* need to make this a seperate element */}
                 <div className="p-6 flex flex-col">
                     <div>
                         <label className="px-2">Test #1</label>
